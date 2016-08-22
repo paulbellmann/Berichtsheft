@@ -1,10 +1,10 @@
 # Berichtsheft
 
-For LaTeX!
+## For LaTeX!
 Change content for the first table in:
-firstT.tex
+``firstT.tex``
 
 Change content for the second table in:
-secondT.tex
+``secondT.tex``
 
 Have fun
