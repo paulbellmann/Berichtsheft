@@ -9,6 +9,7 @@ Change content for the **second** table in:
 
 Compile ``Main.tex``to get the PDF's.
 
+Or
 Run ``userinput.py`` generate a new ``firstT.tex``.
 Have fun
 
