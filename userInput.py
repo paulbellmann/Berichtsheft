@@ -10,6 +10,7 @@ def firstFunction():
 	antwortFD = raw_input("First Date: ")
 	antwortSD = raw_input("Second Date: ")
 
+	# needed for LaTeX
 	laTEX = """
 	\\begin{center}
 		\\begin{tabular}{ | m{15em} | m{21em} | }
@@ -28,6 +29,12 @@ def firstFunction():
 	print "Second Date: " + antwortSD
 	antwortCor = raw_input("Everything correct? (Y/N): ")
 	print "------------------------"
+
+	
+	#second inputs
+	#antwortDone = raw_input("What did you do this week?: ")
+	#antwortHour = raw_input("How many hours?: ")
+	#laTEXzwei = 
 
 	# get answer if correct or not
 	if antwortCor.lower() == "y":
