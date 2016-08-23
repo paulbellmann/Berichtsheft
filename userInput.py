@@ -1,6 +1,6 @@
 # Python program that will generate a .tex file
 # It asks for input
-
+# By Paul
 
 # Asks for Inputs
 def firstFunction():
