@@ -12,4 +12,4 @@ Have fun
 
 Check issues for future tasks.
 
-![Vorschau](http://imgur.com/5s9lNmM)
+![Vorschau](http://i.imgur.com/5s9lNmM.png)
